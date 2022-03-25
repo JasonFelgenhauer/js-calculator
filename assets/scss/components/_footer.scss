@@ -1,0 +1,29 @@
+footer {
+	position: absolute;
+	bottom: 25px;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	color: $color_3;
+	p {
+		font-size: 1.2em;
+		letter-spacing: 1.5px;
+		text-transform: uppercase;
+		span {
+			color: $color_2;
+			font-size: 1.5em;
+		}
+		a {
+			border-bottom: 2px $color_3 solid;
+			transition: all 0.3s;
+			&:hover {
+				padding-bottom: 5px;
+			}
+		}
+	}
+	@media (max-width: 400px) {
+		p {
+			font-size: 0.6em;
+		}
+	}
+}
