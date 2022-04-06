@@ -36,6 +36,7 @@ npm run sass
 ## Push history
 
 1. Adding the project
+2. Fixed issue with image in README
 
 ## TODO
 
@@ -44,4 +45,4 @@ npm run sass
 
 ## Screenshot
 
-![image](http://pics.jason-fel.be/uploads/1648226197JavaScript%20Calculator%20-%20Opera.jpg)
+![image](http://pics.jason-fel.be/uploads/1649248120image_2022-04-06_142839.png)
