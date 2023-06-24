@@ -45,4 +45,4 @@ npm run sass
 
 ## Screenshot
 
-![image](http://pics.jason-fel.be/uploads/1649248120image_2022-04-06_142839.png)
+![image](https://media.discordapp.net/attachments/767431513016500235/1122268172679118999/image.png?width=720&height=375)
