@@ -38,11 +38,6 @@ npm run sass
 1. Adding the project
 2. Fixed issue with image in README
 
-## TODO
-
--   [x] Improve the visual
--   [x] Optimize the code
-
 ## Screenshot
 
 ![image](https://media.discordapp.net/attachments/767431513016500235/1122268172679118999/image.png?width=720&height=375)
